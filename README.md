@@ -1,3 +1,3 @@
 # ReadMe
 
-Basic website details go here fool.
+Basic website details go here, fool.
