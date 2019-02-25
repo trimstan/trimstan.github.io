@@ -7,7 +7,7 @@ var europe = [168,170,178,190,203,276,408,547,675,734];
 var latinAmerica = [40,20,10,16,24,38,74,167,508,784];
 var northAmerica = [6,3,2,2,7,26,82,172,312,433];
 
-var ctx = document.getElementById("marketChart");
+var ctx = document.getElementById("myChart");
 var myChart = new Chart(ctx, {
   type: 'line',
   data: {
