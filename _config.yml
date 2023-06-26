@@ -1,7 +1,7 @@
-site: Asko
+site: trimstan
 url: #yoururl
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+title: trimstan
+description: Simple site
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
   username: #yourusername
