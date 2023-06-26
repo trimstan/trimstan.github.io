@@ -2,7 +2,7 @@ site: trimstan
 url: #yoururl
 title: trimstan
 description: Simple site
-googlewebfonts: Open+Sans:wght@400;500;700
+googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
   username: #yourusername
   card: summary
